@@ -1,4 +1,4 @@
-# covid19-fernandopolis-dec2021-data
+# covid19-fernandopolis-data
 
 Esse repositório existe com o propósito de apresentar os dados públicos referentes a pandemia de Covid-19 no município de Fernandópolis em um formato que seja de facil indexação para facilitar na confecção e publicação de gráficos.
 
