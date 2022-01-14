@@ -1,14 +1,20 @@
 Data,Positivos,Negativos,Suspeitos,Curados,Óbitos,Fonte,Arquivo
 01/12/21,13938,32952,136,13483,355,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-10,https://web.archive.org/web/20220107213634/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-10
 02/12/21,13938,33023,99,13487,355,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-11,https://web.archive.org/web/20220107213800/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-11
+03/12/21,13941,33128,42,13491,355,https://www.instagram.com/p/CXCeDiGJXgV/,
 06/12/21,13948,33178,49,13496,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-12,https://web.archive.org/web/20220108002110/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-12
 07/12/21,13949,33179,85,13506,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-13,https://web.archive.org/web/20220108002144/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-13
+08/12/21,13952,33246,41,13515,356,https://www.instagram.com/p/CXPWP2PpNpo/,
+10/12/21,13956,33330,64,13521,356,https://www.instagram.com/p/CXUdptTJzgn/,
 13/12/21,13956,33409,37,13528,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-14,https://web.archive.org/web/20220108002221/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-14
 14/12/21,13957,33409,68,13531,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-15,https://web.archive.org/web/20220108002305/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-15
 16/12/21,13959,33475,45,13538,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-16,https://web.archive.org/web/20220108002335/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-16
+17/12/21,13959,33495,55,13546,356,https://www.instagram.com/p/CXmpsMZJPv8/,
 20/12/21,13959,33555,36,13554,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-17,https://web.archive.org/web/20220108002411/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-17
 22/12/21,13959,33585,52,13563,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-18,https://web.archive.org/web/20220108002443/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-18
 28/12/21,13966,33667,76,13570,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-19,https://web.archive.org/web/20220108002510/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-19
+29/12/21,13974,33705,73,13575,356,https://www.instagram.com/p/CYFnIz4Jbs1/,
+30/12/21,13991,33755,82,13582,356,https://www.instagram.com/p/CYJTRptLZal/,
 03/01/22,14034,33835,103,13597,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-20,https://web.archive.org/web/20220108002532/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-20
 04/01/22,14107,33854,205,13610,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-21,https://web.archive.org/web/20220108002557/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-21
 05/01/22,14261,33862,333,13628,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-22,https://web.archive.org/web/20220108002617/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-22
@@ -16,3 +22,6 @@ Data,Positivos,Negativos,Suspeitos,Curados,Óbitos,Fonte,Arquivo
 07/01/22,14620,34146,363,13655,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-24,https://web.archive.org/web/20220110233634/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-24
 08/01/22,14793,34162,380,13674,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-25,https://web.archive.org/web/20220110233741/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-25
 10/01/22,14949,34285,531,13689,356,https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-26,https://web.archive.org/web/20220111232621/https://fernandopolis.sp.gov.br/noticias/saude/boletim-epidemiologico-26
+11/01/22,15199,34551,753,13705,356,https://www.instagram.com/p/CYm7iBpJCni/,
+12/01/22,15357,34562,979,13718,356,https://www.instagram.com/p/CYpjEuHp4Rh/,
+13/01/22,15823,34665,1186,13729,356,https://www.instagram.com/p/CYr--WLp5Bd/,
